@@ -1,0 +1,14 @@
+# ─── Core Data Stack ─────────────────────────────────────────────────────────
+pandas
+numpy
+
+# ─── Database Connectivity ───────────────────────────────────────────────────
+sqlalchemy
+pymysql                 # MySQL driver for SQLAlchemy
+
+# ─── Visualization (EDA only) ────────────────────────────────────────────────
+matplotlib
+seaborn
+
+# ─── Utilities ───────────────────────────────────────────────────────────────
+python-dotenv           # For loading DB credentials from .env
