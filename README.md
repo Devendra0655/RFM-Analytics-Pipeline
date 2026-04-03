@@ -3,6 +3,11 @@
 > **End-to-end data engineering project** demonstrating a production-style ETL pipeline, relational data warehousing, and executive BI dashboarding — applied to 500K+ real e-commerce transactions.
 
 ---
+## Dashboard Preview
+
+![Customer Retention & RFM Analytics Dashboard](assets/dashboard_preview.png)
+
+---
 
 ## Business Problem
 
